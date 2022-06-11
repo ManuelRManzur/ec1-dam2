@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ec1p7</string>
+    <string name="stated_title">Welcome!</string>
+    <string name="started_subtitle">
+        Join our ever-expanding community!\n
+        <u>Login</u> if you already have an account.\n
+        <u>Sign In</u> to get started with the app.
+    </string>
+    <string name="started_image">inkling</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_login">Login</string>
+</resources>
